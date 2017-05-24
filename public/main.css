@@ -1,0 +1,41 @@
+#main-div {
+  background-color: red;
+  width: 800px;
+  height: 600px;
+}
+
+
+canvas {
+  background-color: white;
+  border: 1px solid black;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  width: 600px;
+  display: inline-block;
+}
+
+#button-div {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  border-radius: 50%;
+  float: left;
+}
+
+#button2-div{
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  border-radius: 50%;
+  float: right;
+}
